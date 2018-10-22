@@ -1,4 +1,5 @@
-Charles Henry Bennet
+__A Frog he would a-wooing go.__
+__Charles Henry Bennet <br/ >_
 
 A frog he would a-wooing go,
 whether his mother would let him or no.
@@ -36,7 +37,7 @@ He took up his hat, and he wished them good night.
 As Froggy was crossing it over a brook,
 A likywhite Duck came and gobbled him up.
 
-So here is an end of one, two, three--
-The Rat, the Mouse, and little Froggy.
+*So here is an end of one, two, three--
+The Rat, the Mouse, and little Froggy.*
 
-http://www.public-domain-poetry.com/Charles-henry-bennett/frog-who-would-a-wooing-go-12866 
+This poem was taken from [Public Domain Poetry](http://www.public-domain-poetry.com/Charles-henry-bennett/frog-who-would-a-wooing-go-12866)
