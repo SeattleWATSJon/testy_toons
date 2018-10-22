@@ -1,6 +1,6 @@
 __A Frog he would a-wooing go.__
 
-__Charles Henry Bennet__
+__By Charles Henry Bennet__
 
 A frog he would a-wooing go,
 
