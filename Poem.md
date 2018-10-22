@@ -1,16 +1,20 @@
 __A Frog he would a-wooing go.__
-__Charles Henry Bennet <br/ >_
+__Charles Henry Bennet__
 
 A frog he would a-wooing go,
+
 whether his mother would let him or no.
 
 off he set with his opera-hat.
+
 On the road he met a rat.
 
 "Pray, Mr. Rat, will you go with me,
+
 kind Mrs. Mousey for to see?"
 
 they soon arrived at Mousey's hall.
+
 they gave a loud tap, and they gave a loud call.
 
 "Pray, Mrs. Mouse, are you within?"
